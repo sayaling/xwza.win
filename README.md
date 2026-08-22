@@ -1,12 +1,10 @@
-# xwza.win
-
-## 小王子杂货铺
+# 小王子杂货铺
 
 海外数字产品与会员服务平台，提供 Apple ID、Shadowrocket、Telegram、Google、Gmail、Google Voice、Spotify、Notion、ChatGPT、iCloud 等数字产品与订阅服务。
 
-### 官方网站
+## 官方网站
 
-[小王子杂货铺官网](https://xwza.win/)
+[小王子杂货铺官网](https://dz.xwza.win/)
 
 支持自助下单，部分产品支持批发。
 
@@ -24,42 +22,45 @@
 
 ### Apple Gift Card
 
-提供 Apple 美区礼品卡、iTunes Gift Card 等相关服务。
+提供 Apple 美区礼品卡及相关充值服务。
 
 ### Telegram
 
-提供 Telegram 电报号及相关数字服务。
+提供 Telegram 电报号及相关账号服务。
 
-### Google
+### Google Account
 
-提供 Google Account、Gmail、Google Voice 等相关服务。
+提供 Google 账号、Gmail、Google Voice 等相关服务。
 
 ### Spotify
 
-提供 Spotify 会员相关服务。
+提供 Spotify 会员及相关订阅服务。
 
-### Notion
+### Notion Plus
 
-提供 Notion Plus 会员相关服务。
+提供 Notion Plus 会员及相关订阅服务。
 
 ### ChatGPT
 
-提供 ChatGPT 会员相关服务。
+提供 ChatGPT 会员及相关订阅服务。
 
 ### iCloud
 
-提供 iCloud 相关数字服务。
+提供 iCloud 相关账号及数字服务。
 
 ### Turkey Gift Card
 
-提供土区礼品卡等数字产品。
+提供土耳其区礼品卡等数字产品。
 
 ---
 
-## 在线购买
+## 服务特点
 
-所有产品及具体价格以官方网站为准：
+- 自助下单
+- 数字产品即时交付
+- 部分产品支持批发
+- 多种海外数字产品与订阅服务
 
-[小王子杂货铺官网](https://xwza.win/)
+## 官方渠道
 
-支持自助下单，部分产品支持批发。
+小王子杂货铺：https://dz.xwza.win/
