@@ -21,20 +21,26 @@ Shadowrocket 目前支持 iPhone、iPad、Mac、Apple TV 等 Apple 平台
 
 ## 小火箭账号分享
 
-这里提供部分可免费下载的小火箭账号：
+这里提供部分可免费下载安装的小火箭账号：
 
-美国：AllenMilliepyl879@gmail.com   
-密码：44s41NP3MD5pf3
-英国：18235265599@163.com           
-密码：KtmUVVf28h
-美国：DeborazpiHarr967@icloud.com   
-密码：x5Qt9ch9m9
-中国:JennyLucero216Flk@outlook.com  
-密码：68cGhmsHEn
+- **美国**
+  - 账号：`AllenMillie...@gmail.com`
+  - 密码：`44s41NP3MD5pf3`
+
+- **英国**
+  - 账号：`18235265599@163.com`
+  - 密码：`KtmUVf28h`
+
+- **美国**
+  - 账号：`DeborazpiHarr967@icloud.com`
+  - 密码：`x5Qt9ch9m9`
+
+- **中国**
+  - 账号：`JennyLucero216Flk@outlook.com`
+  - 密码：`68cGhmsHEn`
 
 共享免费账号用的人很多，你看到的时候不一定能用。可以关注后续分享，或者购买独享账号前往👉 小王子杂货铺（https://dz.xwza.win/）
-登陆教程如图![小火箭使用界面](shadowrocket-4.png.JPG）
-
+登陆教程如图!![小火箭使用界面](shadowrocket-4.png.JPG)
 
 ⚠️ 使用注意事项
 仅用于 App Store 下截，不要登录 iCloud
