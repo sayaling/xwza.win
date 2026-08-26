@@ -2,8 +2,7 @@
 
 Shadowrocket（俗称“小火箭”）是一款运行在 iPhone、iPad 等 Apple 设备上的网络工具，主要用于管理和配置代理连接。
 
-它支持多种代理协议和自定义规则，可以根据域名、IP、地区等条件对不同网络请求进行分流，也可以查看网络请求、流量和连接情况。:contentReference[oaicite:0]{index=0}
-
+它支持多种代理协议和自定义规则，可以根据域名、IP、地区等条件对不同网络请求进行分流，也可以查看网络请求、流量和连接情况。
 对于很多 iPhone 用户来说，Shadowrocket 比较常见的用途就是：
 
 - 配置自己的代理节点
@@ -12,9 +11,9 @@ Shadowrocket（俗称“小火箭”）是一款运行在 iPhone、iPad 等 Appl
 - 查看当前连接、流量和网络情况
 - 在不同网络环境下使用不同的连接配置
 
-需要注意的是，**Shadowrocket 只是客户端，本身不提供代理服务器或节点**。安装 App 后，还需要自行配置相应的网络服务。官方 App Store 页面也明确说明了这一点。:contentReference[oaicite:1]{index=1}
+需要注意的是，**Shadowrocket 只是客户端，本身不提供代理服务器或节点**。安装 App 后，还需要自行配置相应的网络服务。官方 App Store 页面也明确说明了这一点。
 
-Shadowrocket 目前支持 iPhone、iPad、Mac、Apple TV 等 Apple 平台。:contentReference[oaicite:2]{index=2}
+Shadowrocket 目前支持 iPhone、iPad、Mac、Apple TV 等 Apple 平台
 
 如果只是想下载安装 Shadowrocket，可以使用下面整理的共享 Apple ID 临时下载。
 
@@ -47,6 +46,4 @@ Shadowrocket 目前支持 iPhone、iPad、Mac、Apple TV 等 Apple 平台。:con
 小火箭及订阅节点购买请前往👉小王子杂货铺（https://dz.xwza.win/）
 
 如果你想了解更多  Apple ID 的使用技巧、海外 App 下载方法以及常见问题记得关注本站。
-
-
 
