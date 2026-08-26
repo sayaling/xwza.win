@@ -40,7 +40,7 @@ Shadowrocket 目前支持 iPhone、iPad、Mac、Apple TV 等 Apple 平台
   - 密码：`68cGhmsHEn`
 
 共享免费账号用的人很多，你看到的时候不一定能用。可以关注后续分享，或者购买独享账号前往👉 小王子杂货铺（https://dz.xwza.win/）
-登陆教程如图!![小火箭使用界面](shadowrocket-4.png.JPG)
+登陆教程如图!![小火箭使用界面](shadowrocket-4.JPG)
 
 ⚠️ 使用注意事项
 仅用于 App Store 下截，不要登录 iCloud
