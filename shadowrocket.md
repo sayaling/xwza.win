@@ -3,6 +3,7 @@
 Shadowrocket（小火箭）是 iPhone 用户比较常用的网络工具之一。
 
 如果只是临时使用，或者不想长期购买账号，也可以考虑租用短期账号。
+![小火箭登录界面](shadowrocket-1.png.jpg)
 
 ## 小火箭账号分享
 
@@ -14,6 +15,8 @@ Shadowrocket（小火箭）是 iPhone 用户比较常用的网络工具之一。
 中国:JennyLucero216Flk@outlook.com  密码：68cGhmsHEn
 
 共享免费账号用的人很多，你看到的时候不一定能用。可以关注后续分享，或者购买独享账号前往👉 小王子杂货铺（https://dz.xwza.win/）
+![小火箭使用界面](shadowrocket-2.png.jpg)
+
 
 ## 使用小火箭需要注意
 
@@ -22,5 +25,6 @@ Shadowrocket（小火箭）是 iPhone 用户比较常用的网络工具之一。
 3. 不要使用共享账号登录 iPhone 的 iCloud。
 4. 使用共享账号下载 App 后，及时退出账号。
 5. 账号可能存在时效性，具体以实际情况为准。
-6. 
+    ![小火箭账号页面](shadowrocket-3.png.jpg)
+
 
